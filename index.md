@@ -1,0 +1,6 @@
+# James Smith's Portfolio
+Welcome to my Page! 
+## Project Number 1
+this project is about ... 
+### Project Number 2
+this project is about ... 
