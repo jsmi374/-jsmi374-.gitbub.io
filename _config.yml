@@ -2,5 +2,5 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [James Smith]
-logo: img/-DSC1474-Original.jpg
+logo: https://avatars.githubusercontent.com/u/76793232?s=400&u=39a46f441de72864b8190e4a85669fbc239f9751&v=4
 description: [Earth Data Analytics Portfolio Website]
