@@ -6,8 +6,11 @@ within the Geology and Geophysics Department. For the past 3 years, I have worke
 with the USDA at the National Sedimentation Laboratoty (NSL) in Oxford, MS. My work at the NSL is focused 
 on fluvial hydraulics and sediment transport dynamics. Currently, I am investigating the use of accelerometer 
 impact plates to study bedload sediment transport in gravel bedded rivers. 
-## Project Number 1
-this project is about ... 
+
+***
+## Projects:
+* [Temperature over time -- New Orleans, Louisiana](https://jsmi374.github.io/notebooks/nola-analysis-temp.html)
+
 
 <img src= "img/-DSC1474-Original.jpg" alt="Ohanapecosh - August 2022" width=400>
 
