@@ -12,6 +12,6 @@ impact plates to study bedload sediment transport in gravel bedded rivers.
 * [Temperature over time -- New Orleans, Louisiana](https://jsmi374.github.io/notebooks/nola-analysis-temp.html)
 * [Discharge Data for the Past 130 Years, Rio Grnde River near Espanola, NM ](https://jsmi374.github.io/notebooks/Rio_grande_Embudo.html)
 * [NDVI Analysis and Vegetation "recovery" folowing the 2012 Waldo Canyon Fire, Colorado Springs, CO ](https://jsmi374.github.io/notebooks/waldo_2012.html)
-
+* [Wildfire Trends Across the US over the past 29 Years Could Provide insight for Watersheds Impacted ](https://jsmi374.github.io/notebooks/US_Wildfire_huc_4_29Years.html)
 <img src= "img/-DSC1474-Original.jpg" alt="Ohanapecosh - August 2022" width=400>
 
